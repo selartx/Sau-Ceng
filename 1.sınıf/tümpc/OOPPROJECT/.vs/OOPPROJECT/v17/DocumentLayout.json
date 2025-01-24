@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\OOPPROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{671068A7-247B-4F96-BF61-BA8495B3D080}|OOPPROJECT.csproj|D:\\Projects\\OOPPROJECT\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671068A7-247B-4F96-BF61-BA8495B3D080}|OOPPROJECT.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671068A7-247B-4F96-BF61-BA8495B3D080}|OOPPROJECT.csproj|d:\\projects\\oopproject\\usercontroldays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671068A7-247B-4F96-BF61-BA8495B3D080}|OOPPROJECT.csproj|solutionrelative:usercontroldays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671068A7-247B-4F96-BF61-BA8495B3D080}|OOPPROJECT.csproj|d:\\projects\\oopproject\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671068A7-247B-4F96-BF61-BA8495B3D080}|OOPPROJECT.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671068A7-247B-4F96-BF61-BA8495B3D080}|OOPPROJECT.csproj|d:\\projects\\oopproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671068A7-247B-4F96-BF61-BA8495B3D080}|OOPPROJECT.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671068A7-247B-4F96-BF61-BA8495B3D080}|OOPPROJECT.csproj|d:\\projects\\oopproject\\addreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671068A7-247B-4F96-BF61-BA8495B3D080}|OOPPROJECT.csproj|solutionrelative:addreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControlDays.cs",
+              "DocumentMoniker": "D:\\Projects\\OOPPROJECT\\UserControlDays.cs",
+              "RelativeDocumentMoniker": "UserControlDays.cs",
+              "ToolTip": "D:\\Projects\\OOPPROJECT\\UserControlDays.cs",
+              "RelativeToolTip": "UserControlDays.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:17:47.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\Projects\\OOPPROJECT\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "D:\\Projects\\OOPPROJECT\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAnwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:17:39.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Projects\\OOPPROJECT\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\Projects\\OOPPROJECT\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAnwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:17:32.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddReservation.cs",
+              "DocumentMoniker": "D:\\Projects\\OOPPROJECT\\AddReservation.cs",
+              "RelativeDocumentMoniker": "AddReservation.cs",
+              "ToolTip": "D:\\Projects\\OOPPROJECT\\AddReservation.cs",
+              "RelativeToolTip": "AddReservation.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:17:27.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\OOPPROJECT\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Projects\\OOPPROJECT\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwEoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:05:01.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

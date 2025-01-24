@@ -1,0 +1,10 @@
+1 nolu işlem:
+2 ve 8 girildi
+
+2 nolu işlem:
+6 ve 28 girildi
+
+3 nolu seçenek:
+
+4 nolu seçenek:
+Ekrana Yazdırılması gereken: A P A P T M B N D C G P L A D O K D I C A
