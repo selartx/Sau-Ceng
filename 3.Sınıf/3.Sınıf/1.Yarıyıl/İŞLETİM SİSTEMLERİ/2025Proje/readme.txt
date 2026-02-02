@@ -1,0 +1,1 @@
+githuba zaten tüm kodları attım bakabilirsiniz:)
